@@ -46,11 +46,3 @@ while pilihan != 0:
     pilihan = int(input("Masukkan pilihan: "))
 
 print('"Telah keluar dari program"')
-
-"""
-
-LINK REPO GITHUB
-
-https://github.com/Irsydl/POSTTEST2.git
-
-"""
