@@ -1,3 +1,3 @@
 # POSTTEST2
 
-POSTTEST 2 MEMBUAT PROGRAM SEDERHANA KONVERSI SUHU DAN DATA MAHASISWA MENGGUNAKAN BAHASA PEMROGRAMAN PYTHON
+Posttest 2 Membuat Program Sederhana Konversi Suhu Dan Data Mahasiswa Menggunakan Bahasa Pemrograman Python
