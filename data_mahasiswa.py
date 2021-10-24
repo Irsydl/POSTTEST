@@ -11,11 +11,11 @@ def data_mahasiswa():
 
     # Data yang disimpan di list1 dipanggil ke dalam dictionary
     student_dicti = {
-        'Nama: ': list1[0],
-        'Nim: ': list1[1],
-        'Prodi: ': list1[2],
-        'Agama: ': list1[3],
-        'Tinggi: ': list1[4]
+        'Nama': list1[0],
+        'Nim': list1[1],
+        'Prodi': list1[2],
+        'Agama': list1[3],
+        'Tinggi': list1[4]
     }
     
     # Output dictionary
