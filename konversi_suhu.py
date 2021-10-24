@@ -47,9 +47,3 @@ while pilihan != 0:
 
 print('"Telah keluar dari program"')
 
-"""
-
-LINK REPO GITHUB:
-https://github.com/Irsydl/POSTTEST2.git
-
-"""
