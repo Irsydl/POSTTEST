@@ -31,7 +31,7 @@ def menu():
     user = input("Masukkan Pilihan: ")
     user = user.lower()
     
-    # Loop ketika input user tidak sama dengan "n" dan mengeksekusi program data mahasiswa ketika input user sama dengan "y"
+    # Loop ketika input user tidak sama dengan "n" dan menjalankan fungsi data mahasiswa ketika input user sama dengan "y"
     # Program selesai atau keluar ketika user menginput "n"
     while user != "n":
         if user == "y":
