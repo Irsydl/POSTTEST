@@ -6,3 +6,4 @@ Kelas : INFORMATIKA A <br />
 
 Posttest 2 Membuat Program Sederhana Konversi Suhu Dan Data Mahasiswa <br />
 Posttest 3 Membuat Program Kasir, Program Login dan Register <br />
+Posttest 4 Mengubah konten yang berada didalam list menggunakan fungsi-fungsi list <br />
